@@ -70,11 +70,11 @@
 }
 
 .first-section .right button {
-    color: #f9faf8;
+    color: white;
     font-size: 18px;
     font-weight: 700;
     background-color: #3882f6;
-    padding: 8px 24px;
+    padding: 10px 32px;
     border: none;
     border-radius: 5px;
     margin-top: 12px;
@@ -143,4 +143,50 @@
     font-weight: 700;
     margin: 12px 0;
 }
+
+/* fourth section */
+.fourth-section {
+    padding: 100px 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.fourth-section .big-card {
+    flex-grow: 1;
+    background-color: #3882f6;
+    padding: 48px 100px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fourth-section .big-card p{
+    color: #f9faf8;
+}
+
+.fourth-section button {
+    padding: 10px 32px;
+    border: 2px solid white;
+    color: white;
+    background-color: #3882f6;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/* footer */
+
+.footer {
+    font-weight: 300;
+    padding: 32px;
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 
