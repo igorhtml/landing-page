@@ -1,2 +1,2 @@
 # landing-page
-Landing page practice HTML and CSS
+Landing page to practice HTML and CSS
